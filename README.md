@@ -1,3 +1,9 @@
+# Run This app first time
+
+1. clone this repo
+2. command - yarn
+3. command - yarn start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
